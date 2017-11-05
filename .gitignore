@@ -1,2 +1,6 @@
 #jdk
 jdk-8u121-linux-x64.rpm
+
+#hadoop
+hadoop-2.8.1.tar.gz
+
